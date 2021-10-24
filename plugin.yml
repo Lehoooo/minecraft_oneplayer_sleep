@@ -1,0 +1,6 @@
+version: 1.0
+name: OnePlayerSleep
+main: dev.leho.oneplayersleep.OnePlayerSleep
+author: Leho
+description: idk sleep i guess
+      
